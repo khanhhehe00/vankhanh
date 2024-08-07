@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 khanh
 demo
 
 hello demo
+=======
+khanh demo
+>>>>>>> Stashed changes
